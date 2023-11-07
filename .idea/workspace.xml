@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7c09ef3-e350-4ddb-a0a3-29250d66f734" name="更改" comment="" />
+    <list default="true" id="b7c09ef3-e350-4ddb-a0a3-29250d66f734" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/d2l-pytorch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/d2l-pytorch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.线性神经网络/6. softmax回归的从零开始实现.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2.线性神经网络/6. softmax回归的从零开始实现.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.线性神经网络/7. softmax回归的简洁实现.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2.线性神经网络/7. softmax回归的简洁实现.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.多层感知机/10.实战Kaggle比赛：预测房价.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3.多层感知机/10.实战Kaggle比赛：预测房价.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.多层感知机/2.多层感知机的从零开始实现.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3.多层感知机/2.多层感知机的从零开始实现.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.多层感知机/3.多层感知机的简洁实现.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3.多层感知机/3.多层感知机的简洁实现.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.多层感知机/4.模型选择、欠拟合和过拟合.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3.多层感知机/4.模型选择、欠拟合和过拟合.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.多层感知机/5.权重衰减.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3.多层感知机/5.权重衰减.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.多层感知机/6.暂退法.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3.多层感知机/6.暂退法.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.多层感知机/8.环境和分布偏移.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3.多层感知机/9.环境和分布偏移.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.多层感知机/9.数值稳定性和模型初始化.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3.多层感知机/8.数值稳定性和模型初始化.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,26 +37,34 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2S6xVAKr6faPu1xoo2cPH0JO4B5" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
-    <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/zwhy2022/d2l-pytorch",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/zwhy2022/d2l-pytorch&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -50,10 +74,25 @@
       <option name="presentableId" value="Default" />
       <updated>1688480852806</updated>
       <workItem from="1688480861067" duration="25000" />
+      <workItem from="1698907323045" duration="9915000" />
+      <workItem from="1698982750823" duration="10449000" />
+      <workItem from="1699338426226" duration="122000" />
+      <workItem from="1699338927355" duration="3398000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///home/zwhy2022/d2l-pytorch/2.线性神经网络/6. softmax回归的从零开始实现.ipynb</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
