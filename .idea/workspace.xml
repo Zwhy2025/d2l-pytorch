@@ -9,19 +9,14 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7c09ef3-e350-4ddb-a0a3-29250d66f734" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/d2l-pytorch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/d2l-pytorch.iml" afterDir="false" />
+    <list default="true" id="b7c09ef3-e350-4ddb-a0a3-29250d66f734" name="更改" comment="康复训练99%">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.线性神经网络/6. softmax回归的从零开始实现.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2.线性神经网络/6. softmax回归的从零开始实现.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.线性神经网络/7. softmax回归的简洁实现.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2.线性神经网络/7. softmax回归的简洁实现.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.线性神经网络/3. 线性回归的简洁实现.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2.线性神经网络/3. 线性回归的简洁实现.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3.多层感知机/10.实战Kaggle比赛：预测房价.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3.多层感知机/10.实战Kaggle比赛：预测房价.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.多层感知机/2.多层感知机的从零开始实现.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3.多层感知机/2.多层感知机的从零开始实现.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.多层感知机/3.多层感知机的简洁实现.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3.多层感知机/3.多层感知机的简洁实现.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.多层感知机/4.模型选择、欠拟合和过拟合.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3.多层感知机/4.模型选择、欠拟合和过拟合.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.多层感知机/5.权重衰减.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3.多层感知机/5.权重衰减.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.多层感知机/6.暂退法.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3.多层感知机/6.暂退法.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.多层感知机/8.环境和分布偏移.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3.多层感知机/9.环境和分布偏移.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.多层感知机/9.数值稳定性和模型初始化.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3.多层感知机/8.数值稳定性和模型初始化.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.多层感知机/8.数值稳定性和模型初始化.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3.多层感知机/8.数值稳定性和模型初始化.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.多层感知机/submission.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.深度学习计算/0. 前言.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/4.深度学习计算/0. 前言.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.深度学习计算/7. 使用GPU.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/4.深度学习计算/7. 使用GPU.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,12 +72,30 @@
       <workItem from="1698907323045" duration="9915000" />
       <workItem from="1698982750823" duration="10449000" />
       <workItem from="1699338426226" duration="122000" />
-      <workItem from="1699338927355" duration="3398000" />
+      <workItem from="1699338927355" duration="6669000" />
+      <workItem from="1699430704739" duration="1679000" />
+      <workItem from="1699522921499" duration="1222000" />
+      <workItem from="1699929992443" duration="13422000" />
+      <workItem from="1700033037748" duration="37000" />
+      <workItem from="1700033130593" duration="2477000" />
     </task>
+    <task id="LOCAL-00001" summary="康复训练99%">
+      <option name="closed" value="true" />
+      <created>1699374203898</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699374203898</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="康复训练99%" />
+    <option name="LAST_COMMIT_MESSAGE" value="康复训练99%" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -91,6 +104,11 @@
           <url>notebook:///home/zwhy2022/d2l-pytorch/2.线性神经网络/6. softmax回归的从零开始实现.ipynb</url>
           <line>10</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///home/zwhy2022/d2l-pytorch/3.多层感知机/10.实战Kaggle比赛：预测房价.ipynb</url>
+          <line>26</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
